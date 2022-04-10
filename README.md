@@ -1,2 +1,2 @@
 # GVHD_correlation
-#this file is for studying the corelationship in the GVHD project
+#this script is for studying the corelationship between molecular markers, tissue damages with severity of disease in the GVHD project
